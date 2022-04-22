@@ -12,3 +12,5 @@
 | 5 | 4_Testcases | Test cases  |
 | 6 | 5_Report | overall report of this project |
 | 7 | 6_Output | Images and videos related to project |
+## Simulation
+![Simulation](https://github.com/Heiram/M2_atmega328_Digital_Clock/blob/main/2_Design/digitalclock.png)
