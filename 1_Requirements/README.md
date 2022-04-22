@@ -1,13 +1,18 @@
 # Digital Clock
 ## Features
-### * Time is displayed only in hours and minutes
-### * Hours and minutes can be adjusted according to one's needs
+* Time is displayed only in hours and minutes
+* Hours and minutes can be adjusted according to one's needs
 ## 4W and 1H
-### What - A digital clock to see current time.
-### Why - To get to know about electric circuits better.
-### When - Whenever needed, one should be able to see the time.
-### Where - Wherever he is.
-### How - By using Atmega328 microcontroller and SimulIDE.
+### What 
+A digital clock to see current time.
+### Why
+To get to know about electric circuits better.
+### When
+Whenever needed, one should be able to see the time.
+### Where
+All over the world to see the time.
+### How
+By using Atmega328 microcontroller and SimulIDE.
 ## SWOT ANALYSIS
 ### Strengths
 * Real time time display.
@@ -20,5 +25,5 @@
 * Can add Alarm
 * Can add temperature sensor.
 ### Threats
-* Lack of technology.
+* Continuous power supply is needed.
 * Can get broken easily.
