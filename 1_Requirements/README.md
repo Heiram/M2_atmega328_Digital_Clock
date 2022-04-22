@@ -27,3 +27,11 @@ By using Atmega328 microcontroller and SimulIDE.
 ### Threats
 * Continuous power supply is needed.
 * Can get broken easily.
+## High Level Requirements
+| ID | Description | Category | Status |
+| ---|:------------|:---------|:-------|
+| HLR | Adding Hours and Minutes  | Technical | IMPLEMENTED |
+## Low Level Requirements
+| ID | Description | HLR ID | Status (Implemented/Future) |
+| ---|:------------|:-------|:----------------------------|
+| LLR | Add Hours and Minutes Using Push Buttons | HLR | IMPLEMENTED |
