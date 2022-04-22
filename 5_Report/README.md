@@ -38,3 +38,9 @@ By using Atmega328 microcontroller and SimulIDE.
 | ID | Description | HLR ID | Status (Implemented/Future) |
 | ---|:------------|:-------|:----------------------------|
 | LLR | Add Hours and Minutes Using Push Buttons | HLR | IMPLEMENTED |
+# BlockDiagram
+![BlockDiagram](https://github.com/Heiram/M2_atmega328_Digital_Clock/blob/main/2_Design/Block%20Diagram.png)
+# Flowchart
+![Flowchart](https://github.com/Heiram/M2_atmega328_Digital_Clock/blob/main/2_Design/Flowchart.png)
+# Simulation
+![Simulation](https://github.com/Heiram/M2_atmega328_Digital_Clock/blob/main/2_Design/digitalclock.png)
