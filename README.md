@@ -6,7 +6,7 @@
 | ID | folder | Description  |
 | ---|:------------|:---------|
 | 1 | 0_Abstract | describes small intro about the project |
-| 2 | 1_Requirements | Describe about the requirements |
+| 2 | 1_Requirements | Describes about the requirements |
 | 3 | 2_Design | Descibe about the design of Project |
 | 4 | 3_Implementation | All coding related files |
 | 5 | 4_Testcases | Test cases  |
